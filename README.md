@@ -2,7 +2,7 @@
 
 ETL: Extract, Transform, Load project 
 
-The ETL report is under the documents folder 
+The ETL report and outline are located in the documents folder 
 
 The Dark_Sky_Concat_&_ Clean.ipynb is the main file used to pull weather API info 
 
