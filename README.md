@@ -1,15 +1,27 @@
 ETL: Extract, Transform, Load project 
 
+
+
+
+
 Names:
 Jerome Urioste
 Mitchell Dahmer
 Mariam Hassan
 Chris Hart
 
+
+
+
+
 Data Sources:
 
 AirBnb CSV: http://insideairbnb.com/get-the-data.html
 DarkSky Weather API: https://darksky.net/dev
+
+
+
+
 
 Steps:
 
